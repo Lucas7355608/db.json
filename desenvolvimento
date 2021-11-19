@@ -1,18 +1,14 @@
 [
   {
-    "id": "pamela",
-    "job": "Engineer"
+    "id": "lucasR",
   },
   {
-    "id": "ryann",
-    "job": "Jr Engineer"
+    "id": "luana",
   },
   {
-    "id": "gabriela",
-    "job": "Manager"
+    "id": "amanda",
   },
   {
-    "id": "ivan",
-    "job": "Janitor"
+    "id": "artur",
   }
 ]
